@@ -1,4 +1,5 @@
-
+THIS IS THE UNSCANNED VERSION OF THIS APPLICATION
+(See scanned, remediated and with-actions versions)
 ```
 docker scout cves $APP_NAME:$VERSION --output ./vulns.report
 docker scout cves $APP_NAME:$VERSION --only-severity critical --exit-code
